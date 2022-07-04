@@ -17,6 +17,7 @@ public class EID_MUBARAK {
 		System.out.println("Murgi: " + c.howToEat());
 		System.out.println("Goru Curry: " + g.howToEat());
 		
+		//EID MUBARAK
 		System.out.println("\n\n\t\t~~~ EID MUBARAK");
 	}
 
